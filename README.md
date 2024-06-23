@@ -32,7 +32,7 @@ Clone the repository and navigate to the directory:
 
 sh
 
-git clone https://github.com/yourusername/sp500-stock-prediction.git
+git clone https://github.com/Saadayyy/Stock.git
 cd sp500-stock-prediction
 
 Run the script:
